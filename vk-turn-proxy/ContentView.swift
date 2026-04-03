@@ -142,7 +142,7 @@ struct ContentView: View {
     // MARK: - Логика сброса кэша
     func resetCache() {
         // Возвращаем все переменные к их дефолтным значениям
-        coreURL = "https://github.com/cacggghp/vk-turn-proxy/releases/latest/download/client-darwin-arm64"
+        coreURL = "https://github.com/alexmac6574/vk-turn-proxy/releases/latest/download/client-darwin-arm64"
         listenAddress = "127.0.0.1:9000"
         connectionsNum = "4"
         peerAddress = ""
