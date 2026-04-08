@@ -15,7 +15,7 @@
 ## 👁️ Превью
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3f49743-2f95-4e06-bc48-af43ce84814d" alt="Интерфейс VK Turn Proxy GUI" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <img src="https://github.com/user-attachments/assets/09a9c600-94b0-4a2f-97fa-c78b4ed2909b" alt="Интерфейс VK Turn Proxy GUI" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
 ## 🌟 Описание
